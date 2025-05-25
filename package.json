@@ -164,4 +164,7 @@
     "prettier": "2.6.2",
     "react-app-rewire-babel-loader": "^0.1.1"
   }
+  "engines": {
+  "node": "16.x"
+}
 }
